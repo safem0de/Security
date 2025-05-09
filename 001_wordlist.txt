@@ -1,0 +1,9 @@
+admin
+login.php
+portal
+phpmyadmin
+install.php
+includes
+images
+robots.txt
+swagger/index.html
