@@ -2,7 +2,7 @@
 nerdctl pull hackersploit/bwapp-docker
 nerdctl run -d -p 0.0.0.0:8080:80 --name bwapp hackersploit/bwapp-docker
 ```
-http://localhost:8080/install.php
+http://localhost:8080/install.php<br>
 http://localhost:8080/login.php
 * Username: bee
 * Password: bug
