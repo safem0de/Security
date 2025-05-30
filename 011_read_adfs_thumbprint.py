@@ -3,7 +3,7 @@ import hashlib
 from lxml import etree
 
 XML_PATH = "C:/Users/NaweeparbW/Downloads/federationmetadata.xml"
-# XML_PATH = "sp.xml"
+# XML_PATH = "C:/Users/NaweeparbW/Downloads/sp_metadata.xml"
 
 def calc_thumbprints(cert_b64):
     """แปลง Base64 → DER และคำนวณ SHA-1 / SHA-256"""
